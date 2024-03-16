@@ -1,0 +1,26 @@
+[09-Dec-2022 19:16:54 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/maxedtnx/kennistech.tk/db.php on line 7
+[09-Dec-2022 19:16:56 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/maxedtnx/kennistech.tk/db.php on line 7
+[09-Dec-2022 19:42:14 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/maxedtnx/kennistech.tk/result.php on line 17
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 55
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 56
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 57
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 58
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 59
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 60
+[09-Dec-2022 19:42:14 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 61
+[09-Dec-2022 19:42:34 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/maxedtnx/kennistech.tk/result.php on line 17
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 55
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 56
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 57
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 58
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 59
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 60
+[09-Dec-2022 19:42:34 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 61
+[09-Dec-2022 19:43:38 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/maxedtnx/kennistech.tk/result.php on line 17
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 55
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 56
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 57
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 58
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 59
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 60
+[09-Dec-2022 19:43:38 America/New_York] PHP Notice:  Trying to access array offset on value of type null in /home/maxedtnx/kennistech.tk/result.php on line 61

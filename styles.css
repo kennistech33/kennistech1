@@ -1,0 +1,203 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #f1f1f1;
+  }
+  
+  #regForm {
+    background-color: #b6aaaa;
+    margin: 100px auto;
+    font-family: Raleway;
+    padding: 40px;
+    width: 70%;
+    min-width: 300px;
+  }
+  
+  h1 {
+    text-align: center;  
+    color: black;
+  }
+  
+  input {
+    padding: 10px;
+    width: 100%;
+    font-size: 20px;
+    font-family: Raleway;
+    border: 1px solid #aaaaaa;
+    border-radius: 10px;
+  }
+  
+  /* Mark input boxes that gets an error on validation: */
+  input.invalid {
+    background-color: #ea3737;
+  }
+  
+  /* Hide all steps by default: */
+  .tab {
+    display: none;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  
+  button {
+    background-color: #04AA6D;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 17px;
+    font-family: Raleway;
+    cursor: pointer;
+    border-radius: 10px;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  #prevBtn {
+    background-color: #bbbbbb;
+  }
+  
+  /* Make circles that indicate the steps of the form: */
+  .step {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbbbbb;
+    border: none;  
+    border-radius: 50%;
+    display: inline-block;
+    opacity: 0.5;
+  }
+  
+  .step.active {
+    opacity: 1;
+  }
+  
+  /* Mark the steps that are finished and valid: */
+  .step.finish {
+    background-color: #04AA6D;
+  }
+  /* result start */
+.outputcontainer{
+background-color: #d1d9e6;
+margin: 10px;
+padding: 10px;
+text-align: center;
+
+
+}
+.upperwrapper{
+font-style: oblique;
+font-weight: bolder;
+background-color:#eeecec;
+
+
+
+
+}
+.upperwrapper h3{
+  font-size: 25px;
+  color: rgb(4, 4, 4);
+  
+}
+.upperwrapper p{
+  font-size: 20px;
+}
+.lowwerwrapper{
+font-size: 22px;
+}
+.lowwerwrapper h1 span{
+color: #980303;
+}
+.lowwerwrapper p span{
+color: #910909;
+font-size: 21px;
+}
+@media(max-width:350px ){
+
+  .outputcontainer{
+    background-color: #d1d9e6;
+    margin: 10px;
+    padding: 10px;
+    text-align: left;
+    
+    
+    }
+    .upperwrapper{
+    font-style: oblique;
+    font-weight: bolder;
+    background-color:#eeecec;
+    
+    
+    
+    
+    }
+    .upperwrapper h3{
+      font-size: 18px;
+      color: rgb(4, 4, 4);
+      
+    }
+    .upperwrapper p{
+      font-size: 17px;
+    }
+    .lowwerwrapper{
+    font-size: 15px;
+    }
+    .lowwerwrapper h1 span{
+    color: #980303;
+    font-size: 10px;
+    }
+    .lowwerwrapper p span{
+    color: #910909;
+    font-size: 21px;
+    }
+  }
+@media(max-width:416px ){
+
+  .outputcontainer{
+    background-color: #d1d9e6;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    
+    
+    }
+    .upperwrapper{
+    font-style: oblique;
+    font-weight: bolder;
+    background-color:#eeecec;
+    
+    
+    
+    
+    }
+    .upperwrapper h3{
+      font-size: 18px;
+      color: rgb(4, 4, 4);
+      
+    }
+    .upperwrapper p{
+      font-size: 17px;
+    }
+    .lowwerwrapper{
+    font-size: 22px;
+    }
+    .lowwerwrapper h1 span{
+    color: #980303;
+    font-size: 20px;
+    }
+    .lowwerwrapper p span{
+    color: #910909;
+    font-size: 21px;
+    }
+  }
+
+
+.call{
+      color: red;
+}
+
+  /* result end */
